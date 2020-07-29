@@ -69,7 +69,7 @@ function Calculadora() {
       <Container>
         <Row>
           <Col xs="3">
-            <Button variant="danger" onClick={limpar}>C</Button>
+            <Button variant="danger" onClick={limpar}>D</Button>
           </Col>
           <Col xs="9">
             <Form.Control type="text"
